@@ -14,7 +14,7 @@
       <form class="form-inline ml-auto">
         <div class="text-white">Welcome, <strong>{{user.username}}</strong>!</div>
         {% if user.is_authenticated %}
-          <a href="#" class="btn btn-success ml-4">New Page</a>
+          <a href="/new/" class="btn btn-success ml-4">New Page</a>
           <a href="{% url 'logout' %}" class="btn btn-danger ml-2">Log Out</a>
         {% else %}
         <a href="{% url 'login' %}" class="btn btn-secondary ml-2">Log In</a> 
