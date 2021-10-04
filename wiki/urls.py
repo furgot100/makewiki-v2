@@ -6,5 +6,5 @@ urlpatterns = [
     path('', PageListView.as_view(), name='wiki-list-page'),
     path('new/', PageCreateView.as_view(), name='wiki-new-page'),
 
-    path('<str:slug>/', PageDetailView.as_view(), name='wiki-details-page'),
+    path('blog/<str:slug>/', PageDetailView.as_view(), name='wiki-details-page'),
 ]
