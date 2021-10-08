@@ -1,10 +1,10 @@
-# 📓 Personal Wiki
+<!-- # 📓 Personal Wiki
 
 View the [lesson plan] that accompanies this activity.
 
 ## Step 1: Follow Setup Guide
 
- **⭐️ IMPORTANT**: Change **YOUR_GITHUB_USERNAME** before hitting `<ENTER>` on the last step.<br>**✅ EXAMPLE**: Change `git remote add https://github.com/furgot100/makewiki` to `git remote add https://github.com/droxey/makewiki` for [Dani](https://github.com/droxey/makewiki)'s version of the `makewiki` project.
+ **⭐️ IMPORTANT**: Change **YOUR_GITHUB_USERNAME** before hitting `<ENTER>` on the last step.<br>**✅ EXAMPLE**: Change `git remote add https://github.com/YOUR_GITHUB_USERNAME/makewiki` to `git remote add https://github.com/droxey/makewiki` for [Dani](https://github.com/droxey/makewiki)'s version of the `makewiki` project.
 
 1. **In your browser**, create a **[new public repository](https://github.com/new)** on GitHub called `makewiki`.
 2. **In your terminal**, navigate to the directory where you store your projects.
@@ -56,4 +56,10 @@ Add the link to your project in the [Course Tracker](https://make.sc/trackbew1.2
 
 ## Step 6: Add to Portfolio
 
-Add your `makewiki` implementation to your [Make School portfolio](https://www.makeschool.com/portfolio).
+Add your `makewiki` implementation to your [Make School portfolio](https://www.makeschool.com/portfolio). -->
+
+<!-- NEW README -->
+
+<h1 align="center"> Makewiki Dockerized </h1>
+
+<img src="https://img.shields.io/github/languages/code-size/furgot100/makewiki-v2"/>
