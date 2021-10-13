@@ -149,7 +149,7 @@ DEFAULT_LOGOUT_URL = '/'
 # PROTIP:
 # Need to override settings? Create a local_settings.py file
 # in this directory, and add settings there.
-try:
-    from makewiki.local_settings import *
-except ImportError:
-    pass
+# try:
+#     from makewiki.local_settings import *
+# except ImportError:
+#     pass
